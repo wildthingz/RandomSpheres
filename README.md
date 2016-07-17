@@ -10,6 +10,6 @@ In part two of this code, a standalone python code has been used, `AnalyzeImg.py
 <p align="center"><i>fig3.</i> Comparison of area fraction and volume fraction.</p>
 # Tested versions
 These scripts have been tested using:
-- Blender 2.69.0 (R2013a)
+- Blender 2.69.0
 - Python 2.7.11 Anaconda 2.3.0
     

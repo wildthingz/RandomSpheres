@@ -1,7 +1,7 @@
 # RandomSpheres
 
 This code uses blender envirnoment to generate a number of randomly positioned, randomly sized ellipsoids (fig1).
-<img src=images/img1.png width="148">
+<img src=images/img1.png width="400">
 *<a name="fig1"></a> Randomly sized ellipsoids.*
 The original purpose behind this code was to compare volume fraction and area fraction. In this regard, a series of functions has been defined to generate a random configuration of ellipsoids in a box. After saving the value of the volume fraction, blender sections the box from a random position and saves the resultant cross-section as an image (fig2).
 <span>![<span>Main Window</span>](images/img2.png)</span> </br>

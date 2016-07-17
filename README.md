@@ -1,5 +1,4 @@
 # RandomSpheres
-
 This code uses blender envirnoment to generate a number of randomly positioned, randomly sized ellipsoids (fig1).
 <p align="center"><img src=images/img1.png width="500"></p>
 <p align="center"><i>fig1.</i> Randomly sized ellipsoids.</p>
@@ -9,4 +8,8 @@ The original purpose behind this code was to compare volume fraction and area fr
 In part two of this code, a standalone python code has been used to analyze the resultant images, exctrat area fraction and compare the value to the original volume fraction value from blender and plot the results (fig3).
 <p align="center"><img src=images/img3.png width="500"></p>
 <p align="center"><i>fig3.</i> Comparison of area fraction and volume fraction.</p>
+# Tested versions
+These scripts have been tested using:
+- Blender 2.69.0 (R2013a)
+- Python 2.7.11 Anaconda 2.3.0
     

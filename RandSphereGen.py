@@ -14,7 +14,7 @@ class RandomSpheres():
         self.context = bpy.context
         self.scale= scale
         self.domain = domain
-        ## set to Object mode and delete all the previous Spheres
+        # set to Object mode and delete all the previous Spheres
         try:
             bpy.ops.object.mode_set(mode='OBJECT')
         except RuntimeError:
